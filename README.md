@@ -5,7 +5,8 @@
 
 **[Link to Rails server-side repo](https://github.com/boostinwrx/turbosomething_be)**
 
-This concept was created as our Flatiron School Mod 4 project.
+
+This concept was created as our Flatiron School Mod 4 project, with my project partner [Will Comfort](https://github.com/wcomfortI).
 
 ---
 #### Application still in development, currently polishing up and building upon original concept
